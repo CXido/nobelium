@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'CRAIGARY', // 标题
-  author: 'Craig Hart', // 作者
-  email: 'i@craigary.net', // 邮箱
+  title: '动画年鉴-统计表', // 标题
+  author: 'XDO', // 作者
+  email: 'xido@vip.qq.com', // 邮箱
   link: 'https://nobelium.vercel.app', // 链接或域名
-  description: 'This gonna be an awesome website.', // 描述
-  lang: 'en-US', // 语言
+  description: '缓慢更新中！', // 描述
+  lang: 'zh-CN', // 语言
   appearance: 'auto', // ['light', 'dark', 'auto'],外观 (浅色, 深色或自动)
   lightBackground: '#ffffff', // 浅色状态下的背景色，请使用十六进制颜色，不要忘记 '#' 号，如 #ffffff
   darkBackground: '#111827', // 深色状态下的背景色，请使用十六进制颜色，不要忘记 '#' 号
@@ -13,7 +13,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart', // 社交链接
+  socialLink: 'https://t.me/AnimeAnnalsACG', // 社交链接
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
